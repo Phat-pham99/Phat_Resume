@@ -23,16 +23,17 @@ header:
 ---
 ## EDUCATION
 
-|    Time     |    Institution                                                | 
-| :----:      |  :----:                                                       |
-|2017 - 2021|<p>HCMC University of Technology</p><p>Major: Biomedical Engineering</p>|
+|    Time      |     Institution                                                         | 
+| :----:       |   :----:                                                                |
+| 2017 - 2021  | <p>HCMC University of Technology</p><p>Major: Biomedical Engineering</p>|
 ---
 ---
 ## WORK EXPERIENCE
-|    Time     |    Company                                     |
-| :----:      |  :----:                                        |
-|<p>From: Jan/2025</p><p>To: Present|<p>CMC Global Company Limited</p><p>Title: Middle Backend Developer</p> |
-|<p>From: Aug/2022</p><p>To: Dec/2024</p>|<p>Terralogic, Inc</p><p>Title: Junior Python Developer</p>|
+|     Time                                 |     Company                                                                  |
+|    :----:                                |     :----:                                                                   |
+| <p>From Apr/2026</p><p>To: Present       | <p>FPT Software Company Limited</p><p>**Title**: Senior Backend Developer</p>|
+| <p>From: Jan/2025</p><p>To: Mar/2026     | <p>CMC Global Company Limited</p><p>**Title**: Middle Backend Developer</p>  |
+| <p>From: Aug/2022</p><p>To: Dec/2024</p> | <p>Terralogic, Inc</p><p>**Title**: Junior Python Developer</p>              |
 ---
 ## SKILLSET
 |<h3>Technology</h3>|
@@ -41,3 +42,20 @@ header:
 |<h3>FrontEnd development</h3><p>HTML, CSS, ReactJs, NextJs, TailwindCSS</p>|
 |<h3>Backend development</h3><p>Django, FastAPI, NestJs, Redis, MySQL,PostGreSQL,</p> <p>Kafka, RabbitMQ, Websocket, Gin (Golang), Ruby on Rails</p>|
 |<h3>DevOps</h3><p>DataDog, Grafana, Promethues, Github Action, Jenkin,</p><p>Terraform, Ansible, Docker, Podman, Kubernete, AWS, Google Cloud Platform</p>
+## Projects
+#### BLADED project - Syssim project - GE Vernova tenant
+(2026/04 - Now)
+|    Client                                |    GE Vernova                                                                  |
+|   :----:                               |    :----:                                                                   |
+| Description      |   <h3>Python developer</h3> GEV is the world leading in Renewable energy production and R&D                    |
+| Team size |           10 |
+| My position | Senior Python developer |
+| My responsibilities |        |
+| Technologies used | 
+
+
+####  NestJs + FastAPI microservices
+(2025/04 - 2026/03)
+|    Client                                |   Oyika Pte Ltd |
+|   :----:                               |    :----:                                                                   |
+| Description       | <h3></h3> <h3>Purpose of this project:</h3> - Migrate from Java monolithic system into modular, flexible and cloud-native microservices system orchestrated via Kubernetes There are 22 - 23 microservices in total: Inventory, Payment, Mobile app backend, WebApp, backend, Battery Swapping operation, IOT devices telemetry and management,etc |
