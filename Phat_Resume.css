@@ -1,8 +1,5 @@
-/* Backbone CSS for Resume Template 1 */
-/* Basic */
-
 #resume-preview [data-scope="vue-smart-pages"][data-part="page"] {
-  background-color: white;
+  background-color: rgb(247, 247, 247);
   color: black;
   text-align: justify;
   -moz-hyphens: auto;
@@ -11,49 +8,42 @@
   hyphens: auto;
 }
 
-#resume-preview p,
-#resume-preview li,
-#resume-preview dl {
-  margin: 0;
-}
 
 /* Headings */
-
-#resume-preview h1,
-#resume-preview h2,
-#resume-preview h3 {
-  font-weight: bold;
-}
-
 #resume-preview h1 {
-  font-size: 2.13em;
-}
-
-#resume-preview h2,
-#resume-preview h3 {
-  margin-bottom: 5px;
-  font-size: 1.2em;
+  font-weight: bold;
+  font-size: 2.5em;
 }
 
 #resume-preview h2 {
+  font-weight: bold;
+  font-size: 1.8em;
   border-bottom-style: solid;
   border-bottom-width: 1px;
 }
 
-/* Lists */
+#resume-preview h3 {
+  margin-bottom: 5px;
+  font-size: 1.3em;
+}
 
-#resume-preview ul,
+/* Lists */
 #resume-preview ol {
   padding-left: 1.5em;
   margin: 0.2em 0;
+  list-style-type: decimal;
 }
 
 #resume-preview ul {
   list-style-type: circle;
 }
 
-#resume-preview ol {
-  list-style-type: decimal;
+#resume-preview li {
+  list-style-type: circle;
+  padding-left: 0.5em;
+  text-align: left;
+  margin: 0.2em 0;
+  list-style-position: inside;
 }
 
 /* Definition Lists */
@@ -118,12 +108,17 @@
   top: 0;
 }
 
-table, th, td {
-  border: 1px solid;
+#resume-preview table {
+    width: 100%;
 }
 
-div.tablecontainer {
-  overflow-x: auto;
+#resume-preview td:nth-child(1) { /* The left column */
+    width: 20%;
+}
+
+#resume-preview td:nth-child(2) {  /* The right column */
+    width: 80%;
+    word-wrap: break-word; /* Ensures long text doesn't overflow */
 }
 
 /* Dark & print mode */

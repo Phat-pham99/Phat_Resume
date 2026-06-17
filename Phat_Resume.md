@@ -51,11 +51,14 @@ header:
 | Team size |           10 |
 | My position | Senior Python developer |
 | My responsibilities |        |
-| Technologies used | 
+| Technologies used |
 
 
 ####  NestJs + FastAPI microservices
 (2025/04 - 2026/03)
 |    Client                                |   Oyika Pte Ltd |
 |   :----:                               |    :----:                                                                   |
-| Description       | <h3></h3> <h3>Purpose of this project:</h3> - Migrate from Java monolithic system into modular, flexible and cloud-native microservices system orchestrated via Kubernetes There are 22 - 23 microservices in total: Inventory, Payment, Mobile app backend, WebApp, backend, Battery Swapping operation, IOT devices telemetry and management,etc |
+| Description       | <h3></h3> <h3>Purpose of this project:</h3> <p>Migrate from Java monolithic system into modular, flexible and cloud-native microservices system orchestrated via Kubernetes There are 22 - 23 microservices in total: Inventory, Payment, Mobile app backend, WebApp, backend, Battery Swapping operation, IOT devices telemetry and management,etc</p> |
+| Team size | 20 (Vietnam, Indonesia, Singapore)|
+| My position | Middle Backend Developer |
+| My responsibilities | <li>Legacy Java codebase -> NestJs + FastAPI migration </li> <li>Develope and maintain microservices (NestJs, FastAPI) orchestrated using K8s</li> <li>Nestjs Websocket for mobile app communication- Kafka for IOT data streaming (metric & telemetry)</li> <li>gRPC for inter-service and Restful for client-servers communication</li> <li>Cloud-native (all infrastructure and services deployed to AWS)</li> <li>Microservice monitoring via Datadog, Grafana, Prometheus</li> <li>Participate in Production deployment (Rolling, Blue/green, Canary)</li>|
